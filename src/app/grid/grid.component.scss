@@ -1,0 +1,34 @@
+
+.example-spacer {
+  flex:auto;
+}
+
+.nav-container{
+  padding: 2%;
+}
+.grid{
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(25%, 1fr));
+  gap:2%
+  
+}
+.recipe-card{
+
+
+  img{
+    width: 100%;
+    height: 50%;
+    object-fit:fit-content;
+  }
+}
+
+.button {
+  position: absolute;
+  bottom: 10px; /* Adjust for spacing from the bottom */
+  right: 10px;  /* Adjust for spacing from the right */
+  /* Add other styles for the button like background color, width, height, etc. */
+}
+
+
+
+

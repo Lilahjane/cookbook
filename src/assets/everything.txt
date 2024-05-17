@@ -1,0 +1,62 @@
+friday may 10th 
+new project new rules NEW NAMING CONVENTIONS THAT YOU NEED TO STICK TOO
+
+
+
+
+ISSUES BY COMPONENT
+view- 
+*redo the ingredient table make it a list 
+*connect grocery list to view for data transfer 
+
+
+NAMING CONVENTIONS
+
+recipe_name
+recipe_url
+recipe_photo
+Calories
+Carbohydrates
+Net_Carbs
+Fat
+Protein
+Sodium
+Prep_Time
+Difficulty_Level
+Spice_Level
+Ingredients{
+    quantity
+    unit
+    ingredient
+}
+id
+
+
+school rules 
+
+form for assignments 
+due date/ date picker
+tag for class{
+    government red
+    study hall
+    english yellow
+    math blue
+    culinary pink
+    finance orange 
+    science green
+    study hall grey
+
+} 
+url/button
+assignment name/ text field
+
+assignment type{
+    quiz
+    vocab
+    assignment
+    worksheet
+    quizlet
+    edugnuity
+    test
+    project
+}
